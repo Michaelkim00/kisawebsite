@@ -1,3 +1,3 @@
-# USC KISA (Korean Internation Student Association) Website
+# USC KISA (Korean International Student Association) Website
 
 ![kisalogo](img/kisa_logo.png)
