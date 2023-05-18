@@ -3,8 +3,8 @@ Created the official web application for the largest official Korean internation
 
 Created using HTML, CSS, JavaScript/jQuery, mySQL, Bootstrap, and PHP.
 
-link to website:
-https://usckisakac.000webhostapp.com/finalproject.html
+Link to website:
+https://usckisakac.000webhostapp.com/
 
 
 ![kisalogo](img/kisa_logo.png)
